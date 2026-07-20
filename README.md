@@ -8,11 +8,11 @@ built entirely with free LLMs (Groq, Gemini free tier, Ollama, HuggingFace).
 
 ### Phase 1 — Foundations (Week 1–2)
 - [x] Day 1 — Python refresher + first Groq API call
-- [ ] Day 2 — Comparing Groq vs Gemini outputs
-- [ ] Day 3 — Prompt engineering patterns
-- [ ] Day 4 — Prompt playground with adjustable params
-- [ ] Day 5 — Reusable LLM client wrapper
-- [ ] Day 6 — Embeddings & similarity
+- [x] Day 2 — Comparing Groq vs Gemini outputs
+- [x] Day 3 — Prompt engineering patterns
+- [x] Day 4 — Prompt playground with adjustable params
+- [x] Day 5 — Reusable LLM client wrapper
+- [x] Day 6 — Embeddings & similarity
 - [ ] Day 7 — Vector DB deep dive (FAISS)
 - [ ] Day 8 — Vector DB metadata filtering (Chroma)
 - [ ] Day 9 — Manual ReAct loop
