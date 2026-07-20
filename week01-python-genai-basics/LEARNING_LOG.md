@@ -6,15 +6,10 @@ Keep each entry short (5–10 lines). This becomes interview material later.
 ---
 
 ## Day 1 — [Date]
-**Topic:** Python refresher + first Groq API call
-**What I built:** CLI script that sends a prompt to Groq's free LLM and prints the response
-**What I learned:**
--
--
-**Issues hit & fixes:**
-- Issue: PowerShell blocked venv activation → Fix: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
--
-**Screenshot/output:** (optional — paste terminal output or a screenshot link)
+Day 1 — First Groq API call, project setup, Git/GitHub connected
+✅ Day 2 — Groq vs Gemini comparison (navigated two SDK migrations along the way — solid real-world debugging practice)
+✅ Day 3 — Prompt engineering patterns (zero-shot, few-shot, CoT, role-based)
+⏳ Day 4 — LLM parameters (code's ready above whenever you pick it up)
 
 ---
 
