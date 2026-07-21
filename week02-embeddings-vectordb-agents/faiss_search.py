@@ -22,7 +22,9 @@ documents = [
 # Step 1: Convert all documents into embeddings
 print("Embedding documents...")
 doc_embeddings = model.encode(documents)
+print(doc_embeddings)
 doc_embeddings = np.array(doc_embeddings).astype('float32')  # FAISS requires float32
+print(doc_embeddings)
 
 embedding_dim = doc_embeddings.shape[1]
 print(f"Each document embedded into a {embedding_dim}-dimensional vector.\n")
